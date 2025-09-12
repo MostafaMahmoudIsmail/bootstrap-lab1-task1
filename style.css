@@ -1,0 +1,17 @@
+body {
+  background-color: #f5f5f5;
+}
+.container {
+  background-color: #ffffff;
+}
+img{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+}
+.cv-content{
+    /* margin-left: 7rem; */
+}
+span{
+display: inline;
+}
